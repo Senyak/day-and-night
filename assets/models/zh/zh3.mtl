@@ -1,0 +1,170 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl DP_CCS_RoadGate_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DP_CCS_RoadGate_1_baseColor.jpg
+map_Ns DP_CCS_RoadGate_1_metallicRoughness_rough.jpg
+map_refl DP_CCS_RoadGate_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 DP_CCS_RoadGate_1_normal.jpg
+
+newmtl DP_CCS_Toilet_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DP_CCS_Toilet_1_baseColor.jpg
+map_Ns DP_CCS_Toilet_1_metallicRoughness_rough.jpg
+map_refl DP_CCS_Toilet_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 DP_CCS_Toilet_1_normal.jpg
+
+newmtl DP_CSS_WoodBox_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DP_CSS_WoodBox_1_baseColor.jpg
+map_Ns DP_CSS_WoodBox_1_metallicRoughness_rough.jpg
+map_refl DP_CSS_WoodBox_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 DP_CSS_WoodBox_1_normal.jpg
+
+newmtl DP_JNK_FenceRust_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DP_JNK_FenceRust_1_baseColor.jpg
+map_Ns DP_JNK_FenceRust_1_metallicRoughness_rough.jpg
+map_refl DP_JNK_FenceRust_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 DP_JNK_FenceRust_1_normal.jpg
+
+newmtl SP_CCS_CableReel_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CCS_CableReel_1_baseColor.jpg
+map_Ns SP_CCS_CableReel_1_metallicRoughness_rough_scale0.jpg
+map_refl SP_CCS_CableReel_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CCS_CableReel_1_normal.jpg
+
+newmtl SP_CCS_ConcretePipe_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CCS_ConcretePipe_1_baseColor.jpg
+map_Ns SP_CCS_ConcretePipe_1_metallicRoughness_rough.jpg
+map_refl SP_CCS_ConcretePipe_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CCS_ConcretePipe_1_normal.jpg
+
+newmtl SP_CCS_IronPipes_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CCS_IronPipes_1_baseColor.jpg
+map_Ns SP_CCS_IronPipes_1_metallicRoughness_rough.jpg
+map_refl SP_CCS_IronPipes_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CCS_IronPipes_1_normal.jpg
+
+newmtl SP_CCS_MetalBeams_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CCS_MetalBeams_1_baseColor.jpg
+map_Ns SP_CCS_MetalBeams_1_metallicRoughness_rough.jpg
+map_refl SP_CCS_MetalBeams_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CCS_MetalBeams_1_normal.jpg
+
+newmtl SP_CSS_Excavator_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CSS_Excavator_1_baseColor.jpg
+map_Ns SP_CSS_Excavator_1_metallicRoughness_rough_scale1.jpg
+map_refl SP_CSS_Excavator_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CSS_Excavator_1_normal.jpg
+
+newmtl SP_CSS_ShipingCont_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CSS_ShipingCont_1_baseColor.jpg
+map_Ns SP_CSS_ShipingCont_1_metallicRoughness_rough.jpg
+map_refl SP_CSS_ShipingCont_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CSS_ShipingCont_1_normal.jpg
+
+newmtl SP_CSS_ShipingCont_2.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CSS_ShipingCont_2_baseColor_scale2.jpg
+map_Ns SP_CSS_ShipingCont_2_metallicRoughness_rough.jpg
+map_refl SP_CSS_ShipingCont_2_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_CSS_ShipingCont_2_normal.jpg
+
+newmtl SP_HWS_TrailerTruck_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_HWS_TrailerTruck_1_baseColor.jpg
+map_Ns SP_HWS_TrailerTruck_1_metallicRoughness_rough.jpg
+map_refl SP_HWS_TrailerTruck_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_HWS_TrailerTruck_1_normal.jpg
+
+newmtl SP_JNK_ScrapPile_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_JNK_ScrapPile_1_baseColor.jpg
+map_Ns SP_JNK_ScrapPile_1_metallicRoughness_rough.jpg
+map_refl SP_JNK_ScrapPile_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_JNK_ScrapPile_1_normal.jpg
+
+newmtl SP_RST_Loudspeaker_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_RST_Loudspeaker_1_baseColor.jpg
+map_Ns SP_RST_Loudspeaker_1_metallicRoughness_rough.jpg
+map_refl SP_RST_Loudspeaker_1_metallicRoughness_metal.jpg
+map_Bump -bm 1.000000 SP_RST_Loudspeaker_1_normal.jpg

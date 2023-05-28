@@ -1,0 +1,170 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl DP_CCS_RoadGate_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DP_CCS_RoadGate_1_Dif.png
+map_Ns DP_CCS_RoadGate_1_Rough.png
+map_refl DP_CCS_RoadGate_1_Met.png
+map_Bump -bm 1.000000 DP_CCS_RoadGate_1_Normal.png
+
+newmtl DP_CCS_Toilet_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CS_Toilet1_dif.png
+map_Ns CS_Toilet1_rough.png
+map_refl CS_Toilet1_met.png
+map_Bump -bm 1.000000 CS_Toilet1_nrm.png
+
+newmtl DP_CSS_WoodBox_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CS_WoodBox1_dif.png
+map_Ns CS_WoodBox1_rough.png
+map_refl CS_WoodBox1_met.png
+map_Bump -bm 1.000000 CS_WoodBox1_nrm.png
+
+newmtl DP_JNK_FenceRust_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DP_JNK_FenceRust_1_dif.png
+map_Ns DP_JNK_FenceRust_1_rough.png
+map_refl DP_JNK_FenceRust_1_met.png
+map_Bump -bm 1.000000 DP_JNK_FenceRust_1_nrm.png
+
+newmtl SP_CCS_CableReel_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CS_CableReel1_dif.png
+map_Ns CS_CableReel1_met.png
+map_refl CS_CableReel1_met.png
+map_Bump -bm 1.000000 CS_CableReel1_nrm.png
+
+newmtl SP_CCS_ConcretePipe_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CS_ConcretePipe1_dif.png
+map_Ns CS_ConcretePipe1_rough.png
+map_refl CS_ConcretePipe1_met.png
+map_Bump -bm 1.000000 CS_ConcretePipe1_nrm.png
+
+newmtl SP_CCS_IronPipes_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CS_IronPipes1_dif.png
+map_Ns CS_IronPipes1_rough.png
+map_refl CS_IronPipes1_met.png
+map_Bump -bm 1.000000 CS_IronPipes1_nrm.png
+
+newmtl SP_CCS_MetalBeams_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CCS_MetalBeams_1_Dif.png
+map_Ns SP_CCS_MetalBeams_1_Rough.png
+map_refl SP_CCS_MetalBeams_1_Met.png
+map_Bump -bm 1.000000 SP_CCS_MetalBeams_1_Normal.png
+
+newmtl SP_CSS_Excavator_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CSS_Excavator_1_dif.png
+map_Ns SP_CSS_Excavator_1_met.png
+map_refl SP_CSS_Excavator_1_met.png
+map_Bump -bm 1.000000 SP_CSS_Excavator_1_nrm.png
+
+newmtl SP_CSS_ShipingCont_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CSS_ShipingCont_1_DIF.png
+map_Ns SP_CSS_ShipingCont_1_rough.png
+map_refl SP_CSS_ShipingCont_1_Met.png
+map_Bump -bm 1.000000 SP_CSS_ShipingCont_1_NRM.png
+
+newmtl SP_CSS_ShipingCont_2.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_CSS_ShipingCont_2_DIF.png
+map_Ns SP_CSS_ShipingCont_2_rough.png
+map_refl SP_CSS_ShipingCont_2_Met.png
+map_Bump -bm 1.000000 SP_CSS_ShipingCont_2_NRM.png
+
+newmtl SP_HWS_TrailerTruck_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SP_HWS_TrailerTruck_1_dif.png
+map_Ns SP_HWS_TrailerTruck_1_rough.png
+map_refl SP_HWS_TrailerTruck_1_met.png
+map_Bump -bm 1.000000 SP_HWS_TrailerTruck_1_nrm.png
+
+newmtl SP_JNK_ScrapPile_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd PG_Scrap1_dif.png
+map_Ns PG_Scrap1_rough.png
+map_refl PG_Scrap1_met.png
+map_Bump -bm 1.000000 PG_Scrap1_nrm.png
+
+newmtl SP_RST_Loudspeaker_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd PG_Loudspeaker_dif.png
+map_Ns PG_Loudspeaker_rough.png
+map_refl PG_Loudspeaker_met.png
+map_Bump -bm 1.000000 PG_Loudspeaker_nrm.png
